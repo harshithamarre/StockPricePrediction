@@ -1,1 +1,1 @@
-# StockPricePrediction
+## StockPricePrediction and Forecasting
